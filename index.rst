@@ -7,7 +7,7 @@ Visit `ij.start.canon <https://ijstartcanij.readthedocs.io/en/latest/index.html>
 
 |
 .. image:: click-here.png
-    :width: 30px
+    :width: 300px
     :align: center
     :height: 100px
     :alt: ij.start.canon
