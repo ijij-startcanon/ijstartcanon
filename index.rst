@@ -6,7 +6,7 @@ ij.start.canon
 Visit ij.start.canon and find out the best way to download Canon printer drivers. Canon printers are ideal for every situation wherever you need a document, paper, or photo print or even if you wish to scan, fax, and do more ijstart.canon will make you learn how to set up a canon printer to get advanced printing features. To complete your Canon ij printer setup with several connectivity options like WiFi, USB, Bluetooth, and others, see and follow below mentioned steps.
 
 |
-.. image:: stars.jpg
+.. image:: click-here.png
     :width: 300px
     :align: center
     :height: 100px
